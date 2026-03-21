@@ -1,0 +1,7 @@
+
+path: D:/PythonProject/PRIS-NET/dataset
+images: images/train
+val: images/val
+test: images/test
+nc: 4
+names: ['0', '1', '2', '3']
